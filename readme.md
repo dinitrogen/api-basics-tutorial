@@ -1,4 +1,4 @@
-### API basics tuturial
+### API basics tutorial
 
 ## Reference
 - basic setup: https://www.robinwieruch.de/javascript-project-setup-tutorial/
